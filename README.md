@@ -1,7 +1,4 @@
 # Sunrise-Corporation-LTD-Sales-Project
-Below is a **clean, professional GitHub-ready write-up** you can paste directly into your repository’s `README.md`.
-
-
 
 # Profit and Sales Dashboard – Sunrise Cooperation Ltd (2014–2017)
 
